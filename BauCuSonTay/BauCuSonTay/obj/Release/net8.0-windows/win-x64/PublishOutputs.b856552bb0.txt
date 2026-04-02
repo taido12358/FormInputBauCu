@@ -1,0 +1,2 @@
+D:\___TAIDO_MAIN_12358___\CODE\CSharp\WindowApp\FormBauCu\final-23\BauCuSonTay_WinForms\BauCuSonTay\publish_output\BauCuSonTay.pdb
+D:\___TAIDO_MAIN_12358___\CODE\CSharp\WindowApp\FormBauCu\final-23\BauCuSonTay_WinForms\BauCuSonTay\publish_output\BauCuSonTay.exe
